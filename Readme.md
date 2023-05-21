@@ -1,4 +1,4 @@
-# ChatGPT App
+# ChatBot App
 This project is a chat application that leverages advanced AI functionalities to improve user experience. Users can send messages, attach files, and receive AI-assisted responses.
 
 ## Features
