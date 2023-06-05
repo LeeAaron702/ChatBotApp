@@ -1,4 +1,6 @@
 # ChatBot App
+![Chatbot](https://github.com/LeeAaron702/ChatBotApp/assets/112150883/dc991895-8d00-487a-9e33-9d239430149b)
+
 This project is a chat application that leverages advanced AI functionalities to improve user experience. Users can send messages, attach files, and receive AI-assisted responses.
 
 ## Features
