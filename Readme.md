@@ -132,8 +132,3 @@ The ISC license is a permissive free software license published by the Internet 
 
 The ISC license allows permission to use, copy, modify, and/or distribute software for any purpose with or without fee, provided that the license notice and copyright notice is included in all copies.
 
-The dependencies listed in the package.json files have their respective licenses, and using them in your applications means you agree to comply with their licensing terms.
-
-For full details on the ISC license, you may refer to ISC License.
-
-Please note that the license does not include a warranty. In using this software, no promises are made regarding the quality, performance, or safety of the code. Users should thoroughly test and evaluate the software before using it in any production applications.
